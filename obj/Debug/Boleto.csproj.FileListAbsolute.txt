@@ -1,0 +1,10 @@
+G:\MODULO2\Boleto\bin\Debug\Boleto.exe.config
+G:\MODULO2\Boleto\bin\Debug\Boleto.exe
+G:\MODULO2\Boleto\bin\Debug\Boleto.pdb
+G:\MODULO2\Boleto\obj\Debug\Boleto.csproj.AssemblyReference.cache
+G:\MODULO2\Boleto\obj\Debug\Boleto.form.resources
+G:\MODULO2\Boleto\obj\Debug\Boleto.Properties.Resources.resources
+G:\MODULO2\Boleto\obj\Debug\Boleto.csproj.GenerateResource.cache
+G:\MODULO2\Boleto\obj\Debug\Boleto.csproj.CoreCompileInputs.cache
+G:\MODULO2\Boleto\obj\Debug\Boleto.exe
+G:\MODULO2\Boleto\obj\Debug\Boleto.pdb
